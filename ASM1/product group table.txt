@@ -1,0 +1,16 @@
+ProductGroupID,GroupName,Description,Category,SubCategory,Department,Manager,CreatedAt,UpdatedAt,IsActive
+1,Electronics,Devices and gadgets,Technology,Mobile Phones,Sales,John Doe,2023-01-15 10:30:00,2023-01-20 12:00:00,TRUE
+2,Home Appliances,Appliances for home use,Home,Kitchen,Sales,Jane Smith,2023-02-10 09:15:00,2023-02-12 11:45:00,TRUE
+3,Furniture,Home and office furniture,Home,Living Room,Sales,Emily Johnson,2023-03-05 14:00:00,2023-03-06 15:30:00,TRUE
+4,Clothing,Fashion and apparel,Apparel,Men's Wear,Marketing,Michael Brown,2023-04-01 08:00:00,2023-04-02 09:00:00,TRUE
+5,Sports Equipment,Equipment for sports activities,Sports,Outdoor,Sales,Chris Davis,2023-04-20 13:30:00,2023-04-25 14:30:00,TRUE
+6,Toys,Kids toys and games,Toys,Educational,Sales,Alice Wilson,2023-05-10 11:00:00,2023-05-12 12:15:00,TRUE
+7,Books,Printed and digital books,Media,Fiction,Marketing,David Lee,2023-06-15 16:45:00,2023-06-20 17:00:00,TRUE
+8,Beauty Products,Cosmetics and skincare,Health & Beauty,Makeup,Sales,Sarah Miller,2023-07-01 10:00:00,2023-07-05 11:30:00,TRUE
+9,Automotive Parts,Parts and accessories for vehicles,Automotive,Engine,Sales,Tom Harris,2023-07-20 09:30:00,2023-07-22 10:45:00,TRUE
+10,Office Supplies,Stationery and office materials,Office,Stationery,Sales,Laura Thompson,2023-08-10 12:00:00,2023-08-12 13:15:00,TRUE
+11,Garden Supplies,Tools and materials for gardening,Garden,Plants,Sales,James Anderson,2023-08-25 14:00:00,2023-08-27 15:30:00,TRUE
+12,Pet Supplies,Products for pet care,Pets,Food,Sales,Karen Taylor,2023-09-10 11:15:00,2023-09-12 12:30:00,TRUE
+13,Health Supplements,Nutritional supplements,Health & Beauty,Vitamins,Sales,Robert Martinez,2023-09-30 10:45:00,2023-10-02 11:00:00,TRUE
+14,Camping Gear,Equipment for camping and outdoor activities,Sports,Outdoor,Sales,Mary Robinson,2023-10-15 13:00:00,2023-10-18 14:15:00,TRUE
+15,Musical Instruments,Instruments for music,Arts & Crafts,Guitars,Sales,Patricia Clark,2023-10-25 15:30:00,2023-10-28 16:45:00,TRUE
